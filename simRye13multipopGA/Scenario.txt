@@ -1,0 +1,2 @@
+"Simulation of functional additive and non-additive genetic effects using statistical estimates from quantitative genetic models"
+Example 2, LD population, method SS_NOIA
