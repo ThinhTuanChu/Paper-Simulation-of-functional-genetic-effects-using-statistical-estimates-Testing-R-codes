@@ -1,0 +1,2 @@
+Paper: "Simulation of functional additive and non-additive genetic effects using statistical estimates from quantitative genetic models"
+Example 1, LE population, method SF_GA
