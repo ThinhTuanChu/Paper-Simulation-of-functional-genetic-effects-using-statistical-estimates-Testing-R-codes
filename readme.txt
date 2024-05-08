@@ -28,7 +28,8 @@ to laziness & minimum changes needed for different scenarios.
  - To run the breeding scheme (generation 1-4), the code requires an external program 
 DMU to estimate variance component & predict EBV. However, DMU is not provided together
 with this code due to liciense etc. Therefore, it only generate functional QTL effects
-given statistical variance.
+given statistical variance. Please contact the author (chu.thinh @ qgg.au.dk remove 
+space) if you'd like to run the complete breeding program.
 
 This code is free and comes with ABSOLUTELY NO WARRANTY.
 You are welcome to use and redistribute it.
